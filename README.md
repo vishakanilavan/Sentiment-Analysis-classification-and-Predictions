@@ -1,1 +1,1 @@
-# Social-Sentiment-Analysis-classification-and-Rating-Predictions
+# Sentiment-Analysis-classification-and-Rating-Predictions
